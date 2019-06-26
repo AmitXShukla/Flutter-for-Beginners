@@ -1,0 +1,44 @@
+[
+    {
+        "menu_id": "abc1",
+        "menu_type": "Starter",
+        "description": "Step this way please for our 10 best starter recipes. Start your night off with any one of our crave-worthy appetizers",
+        "tooltip": "Starter Menu Items",
+        "image": "images/starter.png"
+    },
+    {
+        "menu_id": "abc2",
+        "menu_type": "Main Course",
+        "description": "Step this way please for our 10 best starter recipes. Start your night off with any one of our crave-worthy appetizers",
+        "tooltip": "Main Course Items",
+        "image": "images/vegetables.png"
+    },
+    {
+        "menu_id": "abc3",
+        "menu_type": "Specials",
+        "description": "Step this way please for our 10 best starter recipes. Start your night off with any one of our crave-worthy appetizers",
+        "tooltip": "Specials Course Items",
+        "image": "images/logo.png"
+    },
+    {
+        "menu_id": "abc4",
+        "menu_type": "Dessert",
+        "description": "Step this way please for our 10 best starter recipes. Start your night off with any one of our crave-worthy appetizers",
+        "tooltip": "Dessert Course Items",
+        "image": "images/vegetables.png"
+    },
+    {
+        "menu_id": "abc5",
+        "menu_type": "Side Dish",
+        "description": "Step this way please for our 10 best starter recipes. Start your night off with any one of our crave-worthy appetizers",
+        "tooltip": "Side Dish Course Items",
+        "image": "images/logo.png"
+    },
+    {
+        "menu_id": "abc6",
+        "menu_type": "Drinks",
+        "description": "Step this way please for our 10 best starter recipes. Start your night off with any one of our crave-worthy appetizers",
+        "tooltip": "Drinks",
+        "image": "images/logo_1.png"
+    }
+]
