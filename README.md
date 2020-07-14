@@ -1,3 +1,8 @@
+```diff
++ if you like this project, Please consider,
+- following me on GitHub & a generous STAR * to this repository.
+```
+
 # Flutter-for-Beginners
 A Restaurant Management App for Web, iOS and Android
 <br><a href="https://www.youtube.com/playlist?list=PLp0TENYyY8lGaU3m8GaO4hW19SJR5tjlT" target="_blank">YouTube Video Tutorials</a><br>
